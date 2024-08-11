@@ -2,11 +2,11 @@
 
 ## Objetivo
 
-Analizar la base de datos del Restaurante "Sabores del Mundo" con la finalidad de medir la aceptación del nuevo menú através de la información recopilada en el período establecido y proponiendo áreas de mejoras para el mismo, que permitan aumentar las ventas del establecimiento y la satisfacción de los comensales. 
+   Analizar la base de datos del Restaurante "Sabores del Mundo" con la finalidad de medir la aceptación del nuevo menú através de la información recopilada en el período establecido y proponiendo áreas de mejoras para el mismo que permitan aumentar las ventas del establecimiento y la satisfacción de los comensales. 
 
 ## Resultados
 
-1) El menú está dividido en 6 categorías de comida y cada categoría posee 6 platillos; la categoría con mayor número de ordenes es la Asiática y la de menor aceptación es la Americana.
+1) El menú está dividido en 6 categorías de comida y cada una posee 6 platillos; la categoría con mayor número de ordenes es la Asiática y la de menor aceptación es la Americana.
    
 2) A nivel platillo se encontró que el más pedido es Hamburguesa que pertenece a la categoría menos pedida; en este caso se recomienda mayor difusión a la categoría antes mencionada ya que tiene el platillo top del menú o en su caso reducir la oferta de platillos adicionales a la Hamburguesa para enfocarse en agregar variedad de éstas: pollo, vegetariana, camarón, etc.
 
